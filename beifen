@@ -1,0 +1,4 @@
+chrome.ext --disable-web-security --user-data-dir
+不认识html代码，但能执行脚本
+<iframe src="http://aic.hainan.gov.cn:880/lz.ashx?vie=076144A08548ACE3D44936D812597B30866453F1F3441C09C7B6E5D6786256D06F02A9E4C7750988CCFFA9553ABB394C
+" allowtransparency="true" scrolling="no" style="overflow:hidden;" frameborder="0"></iframe>
